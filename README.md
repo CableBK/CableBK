@@ -4,9 +4,15 @@
 
 <!--[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,&theme=light)](https://skillicons.dev)-->
 
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin)](https://skillicons.dev)
 
+
 [![My Skills](https://skillicons.dev/icons?i=rust,go,ts)](https://skillicons.dev)
+
+Design
+
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
 
 
