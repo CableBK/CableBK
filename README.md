@@ -2,15 +2,11 @@
 
 <!--[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,&theme=light)](https://skillicons.dev)-->
 
+My tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin)](https://skillicons.dev)
+Tools & Languages : [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=rust,go,ts)](https://skillicons.dev)
 
-
-[![My Skills](https://skillicons.dev/icons?i=rust,go,ts)](https://skillicons.dev)
-
-Design
-
-[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+Design : [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CableBK&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CableBK's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CableBK&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
