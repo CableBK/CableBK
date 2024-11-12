@@ -1,4 +1,4 @@
-## 👋 Hi I'm Cable , Part-time Mobile Dev and Full-time Visual Designer from Thailand. 
+## 👋 Hi I'm Cable , Part-time Mobile Dev and Full-time Visual Designer.
 
 <!--[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,&theme=light)](https://skillicons.dev)-->
 
