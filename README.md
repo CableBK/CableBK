@@ -4,7 +4,8 @@
 
 <!--[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,&theme=light)](https://skillicons.dev)-->
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin)](https://skillicons.dev)
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CableBK&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CableBK&theme=tokyonight)-->
