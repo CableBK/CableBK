@@ -1,5 +1,5 @@
 ## 👋 Hi I'm Cable , Part-time Mobile Dev
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CableBK&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CableBK&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CableBK&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CableBK&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CableBK&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CableBK&theme=tokyonight)-->
