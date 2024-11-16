@@ -1,12 +1,12 @@
 
-Hi 👋 My name is Hi I'm Cable
+Hi 👋 I'm Cable
 =============================
 
-I'm a part-time mobile dev and full-time visual designer.
+a part-time mobile dev and full-time visual designer.
 ---------------------------------------------------------
 
-*   🌍  I'm based in Bangkok, Thailand
-*   🧠  I'm learning to Master of Android development with KMM
+*   🌍  Bangkok, Thailand
+*   🧠  In 2025 I must learn to Master of Android development with KMM
 
 
 ### Languages & Tools  
