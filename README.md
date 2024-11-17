@@ -2,7 +2,7 @@
 Hi 👋 I'm Cable
 =============================
 
-a part-time mobile dev and full-time visual designer.
+a mobile dev and full-time visual designer.
 ---------------------------------------------------------
 
 *   🌍  Bangkok, Thailand
