@@ -1,5 +1,5 @@
 
-Hi 👋 I'm Cable
+Hi I'm Cable
 =============================
 
 a mobile dev and full-time visual designer.
