@@ -6,7 +6,7 @@ a mobile dev and full-time visual designer.
 ---------------------------------------------------------
 
 *   🌍  Bangkok, Thailand
-*   🧠  In 2025 I must learn to Master of Android development with KMM
+*   🧠  learn to Master of Android development with Compose Multi Platform
 
 
 ### Languages & Tools  
