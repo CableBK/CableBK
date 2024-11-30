@@ -11,7 +11,7 @@ a mobile dev and full-time visual designer.
 
 ### Languages & Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin)](https://skillicons.dev)   <!-- &nbsp;&nbsp;  [![My Skills](https://skillicons.dev/icons?i=rust,go,ts)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin)](https://skillicons.dev)&nbsp;[![My Skills](https://skillicons.dev/icons?i=go,ts)](https://skillicons.dev)
 
 <!--Design
 
