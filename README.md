@@ -5,7 +5,7 @@ Hi I'm Cable
 a mobile dev and full-time visual designer.
 ---------------------------------------------------------
 
-*   🌍  Bangkok, Thailand
+*   🌍  Thailand
 *   🧠  learn to Master of Android development with Compose Multi Platform
 
 
