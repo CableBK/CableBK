@@ -1,18 +1,14 @@
 
 Hi there, I'm Cable
 =============================
-
-a mobile dev and full-time visual designer.
----------------------------------------------------------
+Mobile dev and visual designer
 
 *   🌍  Thailand
-*   🧠  learn to Master of Android development with Compose Multi Platform
-
-
+<@--
 ### Languages & Tools  
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin)](https://skillicons.dev)&nbsp;[![My Skills](https://skillicons.dev/icons?i=cs,postman,js,)](https://skillicons.dev)
-
+-->
 <!--Design
 
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)-->
