@@ -3,7 +3,7 @@ Hi there, I'm Cable
 🌍  Thailand
 ### Languages & Tools  
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin)](https://skillicons.dev)&nbsp;[![My Skills](https://skillicons.dev/icons?i=cs,postman,js,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dotnet,)](https://skillicons.dev)&nbsp;[![My Skills](https://skillicons.dev/icons?i=cs,js,)](https://skillicons.dev)
 
 <!--Design
 
