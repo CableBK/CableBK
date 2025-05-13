@@ -3,14 +3,14 @@ Hi there, I'm Cable
 🌍  Thailand
 
 ### Languages
-<p align="center">
+<p align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,js,dart" alt="Languages" />
   </a>
 </p>
 
 ### Framework
-<p align="center">
+<p align="center" style="display: flex; align-items: center; justify-content: center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,flutter" alt="Framework" />
   </a>
