@@ -1,6 +1,15 @@
 Hi there, I'm Cable | 🌍 Thailand
 ============================
-### Languages [![My Skills](https://skillicons.dev/icons?i=cs,js,dart,)](https://skillicons.dev) Framework [![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,)](https://skillicons.dev) 
+<div style="display: flex; align-items: center; gap: 8px;">
+  <span>Languages</span>
+  <img src="https://skillicons.dev/icons?i=cs,js,dart" height="24"/>
+</div>
+
+<div style="display: flex; align-items: center; gap: 8px;">
+  <span>Framework</span>
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter" height="24"/>
+</div>
+
 
 <!--Design
 
