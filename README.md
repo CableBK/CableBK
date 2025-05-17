@@ -8,7 +8,7 @@ Hi there, I'm Cable
 
 <div style="display: flex; align-items: center; gap: 8px;">
   <span>Framework</span>
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter" height="24"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,nextjs" height="24"/>
 </div>
 
 <!--Design
