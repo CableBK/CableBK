@@ -1,24 +1,11 @@
 Hi there, I'm Cable | 🌍 Thailand
 ============================
-<table>
-  <tr>
-    <!-- Column 1: Skills -->
-    <td>
-      <b>🚀 Skills</b><br><br>
+### Languages [![My Skills](https://skillicons.dev/icons?i=cs,js,dart,)](https://skillicons.dev) Framework [![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,)](https://skillicons.dev) 
 
-      <b>Languages</b><br>
-      <img src="https://skillicons.dev/icons?i=cs,js,dart" height="30"><br><br>
+<!--Design
 
-      <b>Frameworks</b><br>
-      <img src="https://skillicons.dev/icons?i=dotnet,flutter" height="30">
-    </td>
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)-->
 
-    <!-- Column 2: GitHub Top Languages -->
-    <td>
-      <b>📊 Top Languages</b><br><br>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CableBK&layout=compact&theme=buefy&hide_border=true&hide=HTML,CMake,C,CSS,Rust,c%2B%2B,php,objective-c,java" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CableBK&layout=compact&theme=buefy&hide_border=true&hide=HTML,CMake,C,CSS,Rust,c%2B%2B,php,objective-c,java," /></a>
+
+<!--c%2B%2B-->
