@@ -1,4 +1,4 @@
-Hi there, I'm Cable | 🌍 Thailand
+Hi there, I'm Cable
 ============================
 <!--Design
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)-->
