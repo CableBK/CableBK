@@ -5,4 +5,4 @@ Hi there, I'm Cable
 
 
 Blazor WASM for Calculate my salary 555
-cablebk.github.io/SLRYCAL/
+https://cablebk.github.io/SLRYCAL/
