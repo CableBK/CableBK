@@ -9,7 +9,7 @@
 
 ## 🚀 Featured Project
 
-### [Calculate My Salary 555](https://cablebk.github.io/SLRYCAL/)
+### [My Hobby Salary Calculator](https://cablebk.github.io/SLRYCAL/)
 > Blazor WASM App for salary calculation
 
 https://cablebk.github.io/SLRYCAL/
