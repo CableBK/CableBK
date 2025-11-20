@@ -4,8 +4,6 @@
 ## 💼 About Me
 
 - .NET Developer passionate about building modern web apps with **Blazor** and **C#**
-- Experimenting with cloud on **Azure**
-- Love to automate and make things easier 🚀
 
 ## 🚀 Featured Project
 
@@ -18,7 +16,6 @@ https://cablebk.github.io/SLRYCAL/
 
 - ASP.NET Core RESTful APIs for enterprise
 - Blazor WASM/PWA apps
-- Azure Functions & Serverless
 - Open-source contributor
 
 ## 📫 Contact Me
